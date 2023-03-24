@@ -1,34 +1,34 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
+  siteTitle: 'Anisa Newaz',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Anisa Newaz is a MS student, who loves learning new things and helping others.',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+    'Anisa Newaz, Anisa, Newaz, Anisanewaz, software engineer, web developer, javascript, python, java',
+  siteUrl: 'https://abnewaz.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
+  name: 'Anisa Newaz',
+  location: 'Dhaka, Bangladesh',
+  email: 'anisanewaz.cse@gmail.com',
+  github: 'https://github.com/abnewaz',
   twitterHandle: '@',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/yashitanamdeo',
+      url: 'https://github.com/abnewaz',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
+      url: 'linkedin.com/in/anisa-newaz-060091b4',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
+      name: 'Hackerrank',
+      url: 'https://www.hackerrank.com/annewaz',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
+      url: 'https://www.instagram.com/',
     },
     {
       name: 'Twitter',
